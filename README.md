@@ -1,1 +1,1 @@
-# Test
+Trabajo práctico realizado para la materia Laboratorio II. Universidad Tecnológica Nacional, Facultad Regional General Pacheco (UTN FRGP) El tema evaluado es POO y todas las herramientas adquiridas hasta la fecha (clases, métodos, sobrecarga de operadores, archivos, vectores dinámicos, etc).
